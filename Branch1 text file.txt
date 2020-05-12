@@ -1,1 +1,3 @@
 This is a sample file on branch1 to test branch pull from GIT
+
+Now updated on local repo
